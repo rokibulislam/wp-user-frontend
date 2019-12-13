@@ -257,13 +257,13 @@ redirected to the edit page with that post id. Then you'll see the edit post for
 
 == Changelog ==
 
-= v3.1.14 () =
+= v3.1.14 (13 December, 2019) =
 
 * **Fix:** Fixed a warning while in block editor
-* **Fix:** Add better URL validation
+* **Fix:** Enhancement Add better URL validation
 * **New:** Added two filters on transaction
-* **Fix:** Notification Checkbox not working
-* **Fix:** some Column field issues
+* **Fix:** Fixed Notification Checkbox not working
+* **Fix:** Fixed some Column field issues
 
 = v3.1.13 (18 November, 2019) =
 
